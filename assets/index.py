@@ -22,6 +22,9 @@ preHTML = '''
         <h1 id="heading">UNC New Indian Grad Student Unofficial Guide</h1>
     </header>
     <div id="site_content">
+      <div id="google-search">
+        <gcse:search enableAutoCompete="true" autoCompleteMaxCompletions="5" autoCompleteMatchType='any'></gcse:search>
+      </div>
       <div id="sidebar_container">
         <div class="sidebar">
             <nav>
@@ -106,6 +109,20 @@ preHTML = '''
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  </script>
+
+  <!-- Google Custom search -->
+  <script type="text/javascript">
+      (function() {
+        var cx = '003162065606147654667:ov1vwjvo0rw';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
       })();
   </script>
 </body>
