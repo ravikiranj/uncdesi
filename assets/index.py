@@ -8,13 +8,14 @@ preHTML = '''
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>UNC Indian Grad Student Unofficial Guide</title>
   <meta name="description" content="UNC Indian Grad Student Unofficial Guide. This is targeted at students joining UNC from India." />
   <meta name="keywords" content="student, unc, life, housing, indian, campus, unc indian grad, indian grad student" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="google-site-verification" content="Kyp-Nlh6wPzr0tXZSqnzrfa_1c4uIzPtcD3ruOax2sI" />
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <link rel="icon" href="/favicon.ico" />
+  <title>UNC Indian Grad Student Unofficial Guide</title>
 </head>
 <body>
   <div id="main">
