@@ -21,7 +21,7 @@ preHTML = '''
   <div id="main">
     <header>
         <!-- Removed the logo as we are not an officially recognized student body of UNC -->
-        <h1 id="heading">UNC Indian Grad Student Unofficial Guide</h1>
+        <h1 id="heading"><a href="http://www.uncdesi.com">UNC Indian Grad Student Unofficial Guide</a></h1>
     </header>
     <div id="site_content">
       <div id="google-search">

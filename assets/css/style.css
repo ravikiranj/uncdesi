@@ -437,6 +437,9 @@ ul.notelist > li{
 #heading{
     padding-top: 20px;
 }
+#heading a{
+  text-decoration: none;
+}
 #disqus-comments{
     width: 930px;
     margin: 0px auto 0 auto;
