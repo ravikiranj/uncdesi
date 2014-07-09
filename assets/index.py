@@ -8,18 +8,19 @@ preHTML = '''
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>UNC New Indian Grad Student Unofficial Guide</title>
-  <meta name="description" content="UNC New Indian Grad Student Unofficial Guide. This is mostly targeted at Indian Grad Students but might also hold good for Grad students coming from Pakistan, Bangladesh, Afghanistan, Bhutan, Maldives, Nepal and Srilanka" />
-  <meta name="keywords" content="indian graduate student association unc, help indian grad student unc, unc indian, unc indian student, unc indian grad student" />
+  <title>UNC Indian Grad Student Unofficial Guide</title>
+  <meta name="description" content="UNC Indian Grad Student Unofficial Guide. This is targeted at students joining UNC from India." />
+  <meta name="keywords" content="student, unc, life, housing, indian, campus, unc indian grad, indian grad student" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="google-site-verification" content="Kyp-Nlh6wPzr0tXZSqnzrfa_1c4uIzPtcD3ruOax2sI" />
   <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
   <div id="main">
     <header>
         <!-- Removed the logo as we are not an officially recognized student body of UNC -->
-        <h1 id="heading">UNC New Indian Grad Student Unofficial Guide</h1>
+        <h1 id="heading">UNC Indian Grad Student Unofficial Guide</h1>
     </header>
     <div id="site_content">
       <div id="google-search">

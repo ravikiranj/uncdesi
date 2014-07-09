@@ -1,0 +1,12 @@
+/* TEAM */
+    Developer: Ravikiran Janardhana
+    Twitter: @ravikiranj
+    From: Mountain View, California, USA
+
+/* THANKS */
+    Group: unc_desi(at)googlegroups.com
+
+/* SITE */
+    Last update: 07/08/2014
+    Language: English US
+    Doctype: HTML5

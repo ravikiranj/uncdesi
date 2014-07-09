@@ -25,6 +25,18 @@ handlers:
 - url: /assets/docs
   static_dir: assets/docs
 
+- url: /robots.txt
+  static_files: assets/seo/robots.txt
+
+- url: /humans.txt
+  static_files: assets/seo/humans.txt
+
+- url: /sitemap.xml
+  static_files: assets/seo/sitemap.xml
+
+- url: /favicon.ico
+  static_files: assets/seo/favicon.ico
+
 libraries:
 - name: webapp2
   version: latest
