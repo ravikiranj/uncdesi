@@ -12,7 +12,6 @@ preHTML = '''
   <meta name="keywords" content="student, unc, life, housing, indian, campus, unc indian grad, indian grad student" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="google-site-verification" content="Kyp-Nlh6wPzr0tXZSqnzrfa_1c4uIzPtcD3ruOax2sI" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
   <link rel="icon" href="/favicon.ico" />
   <title>UNC Indian Grad Student Unofficial Guide</title>
@@ -21,7 +20,7 @@ preHTML = '''
   <div id="main">
     <header>
         <!-- Removed the logo as we are not an officially recognized student body of UNC -->
-        <h1 id="heading"><a href="http://www.uncdesi.com">UNC Indian Grad Student Unofficial Guide</a></h1>
+        <h1 id="heading"><a class="headingLink" href="http://www.uncdesi.com">UNC Indian Grad Student Unofficial Guide</a></h1>
     </header>
     <div id="site_content">
       <div id="google-search">
