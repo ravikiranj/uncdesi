@@ -17,7 +17,7 @@ README
 
 * To update the production site, you need to run below command,
 ```bash
-./appcfg.py --oauth2 update APP_ENGINE_SDK_FOLDER
+./appcfg.py --oauth2 update APP_ENGINE_SDK_FOLDER --no_cookies
 ```
 
 * If you want to learn the details about App Engine (Python), take a look at the documentation at https://developers.google.com/appengine/docs/python/overview
@@ -26,5 +26,6 @@ README
 ```bash
 rm -rf APP_ENGINE_SDK_FOLDER/lib/django*
 ```
+
 
 
