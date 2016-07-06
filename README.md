@@ -3,6 +3,15 @@ README
 * Download the latest Google App Engine SDK from https://developers.google.com/appengine/downloads
 
 * Extract the SDK. Copy app.yaml and assets/ directory into it.
+```bash
+rsync -avu . ~/APP_ENGINE_SDK_FOLDER/
+
+```
+
+* Remove unused libraries (django) in <APP_ENGINE_SDK_FOLDER>/lib folder to overcome max blob and file limit.
+```bash
+rm -rf APP_ENGINE_SDK_FOLDER/lib/django*
+```
 
 * Launch the webserver by typing below command within the SDK directory.
 ```bash
@@ -21,11 +30,3 @@ README
 ```
 
 * If you want to learn the details about App Engine (Python), take a look at the documentation at https://developers.google.com/appengine/docs/python/overview
-
-7) You can remove unused libraries (django) in <APP_ENGINE_SDK_FOLDER>/lib folder to overcome max blob and file limit.
-```bash
-rm -rf APP_ENGINE_SDK_FOLDER/lib/django*
-```
-
-
-
