@@ -9,7 +9,7 @@ rsync -avu . $HOME/google-cloud-sdk/
 
 ```
 
-* Launch the webserver by typing below command within the SDK directory.
+* Launch the webserver by typing below command
 ```bash
 cd $HOME && $HOME/google-cloud-sdk/bin/dev_appserver.py google-cloud-sdk
 ```
@@ -31,6 +31,7 @@ rm -rf $HOME/google-cloud-sdk/platform/google_appengine/lib/django*
 ```bash
 # Login to gcloud
 $HOME/google-cloud-sdk/bin/gcloud auth login
+
 # Set current project
 $HOME/google-cloud-sdk/bin/gcloud config set project unc-desi
 
