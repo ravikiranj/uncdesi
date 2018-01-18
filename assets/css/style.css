@@ -451,3 +451,15 @@ a.headingLink:hover{
     margin: 5px 0 -10px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
